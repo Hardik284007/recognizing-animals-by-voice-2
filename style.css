@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(rgb(0, 255, 21) 25%, rgb(0, 255, 119) 50%);
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: coral;
+}
+
+.header_div{
+background: rgb(77, 77, 77);
+}
+
+.header_div p{
+    font-family: 'Special Elite', sans-serif;
+    color: rgb(255, 0, 0);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+    }
+
+.main_div button{
+    font-family: Agency FB;
+    margin-top: 50px;
+    width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+font-size: 20px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: rgb(75, 75, 75);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+   text-shadow: 5px 5px 4px rgb(138, 138, 138)  ;
+}
